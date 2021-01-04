@@ -1,7 +1,8 @@
 import pandas as pd
 import requests
-from bs4 import BeautifulSoup
 import os
+from bs4 import BeautifulSoup
+from markdownify import markdownify as md
 
 df = pd.read_csv (r'C:\git\2021-Legislation\2021_LSR.csv')
 for index, row in df.iterrows():
@@ -12,11 +13,17 @@ for index, row in df.iterrows():
         row.BillURL = r.url
         soup = BeautifulSoup(r.content, features="lxml")
         txt = soup.get_text()
-        with open((r'C:\git\2021-Legislation\Bills-HTML' + '\\' + row.LSRNumber + ".html"), "w", encoding="utf-8") as f:
+        htmlPath = r'C:\git\2021-Legislation\Bills-HTML' + '\\' + row.LSRNumber + ".html"
+        mdPath = r'C:\git\2021-Legislation\Bills-MD' + '\\' + row.LSRNumber + ".md"
+        with open(htmlPath, "w", encoding="utf-8") as f, open(mdPath, "w", encoding="utf-8") as g:
             if(txt != 'error: Index 0 is either negative or above rows count.\r\n\r\n'):
                 f.write(str(soup))
                 f.close()
+                g.write(md(str(soup.body)))
+                g.close()
             else:
                 f.close()
-                os.remove(r'C:\git\2021-Legislation\Bills-HTML' + '\\' + row.LSRNumber + ".html")
+                g.close()
+                os.remove(htmlPath)
+                os.remove(mdPath)
 df.to_csv(r'C:\git\2021-Legislation\2021_LSR.csv', index = False)
