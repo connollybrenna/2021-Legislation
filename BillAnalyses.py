@@ -12,6 +12,6 @@ for filename in os.listdir(directory):
         url = 'http://gencourt.state.nh.us/bill_Status/billText.aspx?sy=2021&id='+ str(num) +'&txtFormat=html'
         output = "[" + bill + "](" + url + ") - " + analysis
         outfile = open(r'C:\git\2021-Legislation\analysis.md',"a")
-        outfile.write(output)
+        outfile.write(output + "  \n")
         outfile.close()
     except: pass
