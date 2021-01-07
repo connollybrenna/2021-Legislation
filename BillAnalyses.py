@@ -1,17 +1,21 @@
-from bs4 import BeautifulSoup
 import os
+import pandas as pd
+from datetime import datetime
 
-directory = r'C:\git\2021-Legislation\Bills-HTML'
-for filename in os.listdir(directory):
-    soup = BeautifulSoup(open(os.path.join(directory, filename), encoding="utf8"), "lxml")
-    try:
-        analysis = soup.find(class_="cs9224F58F").text.strip()
-        bill = soup.find(class_="cs2E86D3A6").text.split(' ')
-        bill = (bill[0] + ' ' + bill[1]).strip()
-        num = int(filename[:-5].split('-')[1])
-        url = 'http://gencourt.state.nh.us/bill_Status/billText.aspx?sy=2021&id='+ str(num) +'&txtFormat=html'
+ts = datetime.now().strftime("%Y%m%d%H%M%S")
+mdPath = r'C:\git\2021-Legislation\analysis.md'
+
+if os.path.isfile(mdPath):
+    os.rename(mdPath, (mdPath + ts))
+
+df = pd.read_csv (r'C:\git\2021-Legislation\2021_LSR.csv')
+df = df.sort_values(by=['BillNumber'])
+for index, row in df.iterrows():
+    if row.notna().BillAnalysis: 
+        analysis = str(row.BillAnalysis)
+        bill = str(row.BillNumber)
+        url = str(row.BillURL)
         output = "[" + bill + "](" + url + ") - " + analysis
         outfile = open(r'C:\git\2021-Legislation\analysis.md',"a")
         outfile.write(output + "  \n")
         outfile.close()
-    except: pass
