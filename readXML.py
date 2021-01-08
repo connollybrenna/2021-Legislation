@@ -1,8 +1,5 @@
 from bs4 import BeautifulSoup
 import pandas as pd
-import requests
-import re
-from markdownify import markdownify as md
 
 soup = BeautifulSoup(open(r'C:\git\2021-Legislation\2021_LSR.xml',encoding="utf-8"), features='lxml')
 
