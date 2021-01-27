@@ -40,7 +40,7 @@ for s in splits:
     try:
         Billurl = df.loc[index,'HTML']
     except: pass
-    print(Billurl)
+    #print(Billurl)
     if str(df.loc[index,'HTML'])[:4] == 'http' :
         r = requests.get(Billurl)
         soupBill = BeautifulSoup(r.content, features="lxml")
