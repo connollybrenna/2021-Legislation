@@ -1,0 +1,991 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4849&et=2
+DTEND:20210202T223000Z
+DTSTART:20210202T220000Z
+SUMMARY:STATE VETERANS ADVISORY COMMITTEE : REMOTE 
+UID:5ae1c506-24db-4b75-8b1e-58b3e375604c@5ae1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4866&et=2
+DTEND:20210115T203000Z
+DTSTART:20210115T200000Z
+SUMMARY:NEW HAMPSHIRE RARE DISEASE ADVISORY COUNCIL : REMOTE 
+UID:98932350-14a0-4276-8034-17f737476793@9893.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5087&et=2
+DTEND:20210212T213000Z
+DTSTART:20210212T140000Z
+SUMMARY:State-Federal Relations and Veterans Affairs : REMOTE 
+UID:89092c75-fc0d-4632-b2e8-9956583b7110@8909.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4970&et=2
+DTEND:20210125T220000Z
+DTSTART:20210125T200000Z
+SUMMARY:COMMISSION TO STUDY OFFSHORE WIND AND PORT DEVELOPMENT : REMOTE 
+UID:f40b98c4-40f5-47f5-8cba-104a98689e5d@f40b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5059&et=1
+DTEND:20210204T220000Z
+DTSTART:20210204T143000Z
+SUMMARY:House Executive Departments and Administration : REMOTE 
+UID:f661c2e9-e9d9-4546-a89c-04f2b317c5db@f661.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5063&et=1
+DTEND:20210208T220000Z
+DTSTART:20210208T143000Z
+SUMMARY:==REVISED==House Executive Departments and Administration : REMOTE 
+UID:1d2c56e1-9c8b-4eff-82e6-07d09a773f6f@1d2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5032&et=2
+DTEND:20210205T213000Z
+DTSTART:20210205T140000Z
+SUMMARY:==CANCELLED==State-Federal Relations and Veterans Affairs : REMOTE 
+UID:5e4885f8-d97b-4f52-8c72-680dddf1f65e@5e48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4980&et=1
+DTEND:20210129T223000Z
+DTSTART:20210129T140000Z
+SUMMARY:House State-Federal Relations and Veterans Affairs : REMOTE 
+UID:17259e56-c85f-48b0-bac2-d86672958111@1725.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4993&et=1
+DTEND:20210128T210000Z
+DTSTART:20210128T140000Z
+SUMMARY:House Ways and Means : REMOTE 
+UID:58a29c1e-fcba-4a8a-b421-ea6f400fc7ab@58a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5088&et=1
+DTEND:20210209T213000Z
+DTSTART:20210209T140000Z
+SUMMARY:House Commerce and Consumer Affairs : REMOTE 
+UID:a1a39560-a776-4b27-b41f-900a9d1d02eb@a1a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5028&et=2
+DTEND:20210205T183000Z
+DTSTART:20210205T180000Z
+SUMMARY:==ROOM CHANGE==NEW HAMPSHIRE PRESCRIPTION DRUG AFFORDABILITY BOARD : REMOTE 
+UID:183d17f7-4a98-4ceb-a29c-0c9a99052acd@183d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4900&et=2
+DTEND:20210115T160000Z
+DTSTART:20210115T140000Z
+SUMMARY:OVERSIGHT COMMISSION ON CHILDREN'S SERVICES : REMOTE 
+UID:c6714862-44fd-4dde-8dc9-5a71be64e4ee@c671.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4999&et=1
+DTEND:20210129T200000Z
+DTSTART:20210129T143000Z
+SUMMARY:House Election Law : REMOTE 
+UID:5b3389d6-8875-4c75-ad40-7583e0de6dde@5b33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5116&et=1
+DTEND:20210211T213000Z
+DTSTART:20210211T150000Z
+SUMMARY:House Executive Departments and Administration : REMOTE 
+UID:5f855c6d-14a7-4f8c-b9fa-df11c8f6041c@5f85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5089&et=1
+DTEND:20210209T184500Z
+DTSTART:20210209T181500Z
+SUMMARY:==REVISED==House Commerce and Consumer Affairs : REMOTE 
+UID:cf058cef-fedd-4d2c-99ff-46e0259f3765@cf05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5084&et=2
+DTEND:20210219T150000Z
+DTSTART:20210219T143000Z
+SUMMARY:==REVISED==GOVERNOR'S COMMISSION ON ALCOHOL AND DRUG ABUSE PREVENTION\, TREATMENT\, AND RECOVERY : REMOTE 
+UID:e2abc40b-b0c7-48b9-8ca4-079bc5a92469@e2ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4865&et=2
+DTEND:20210115T153000Z
+DTSTART:20210115T150000Z
+SUMMARY:FISCAL COMMITTEE : REMOTE 
+UID:ca748ffd-c0de-4138-a319-255c4a76f6a2@ca74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5064&et=1
+DTEND:20210202T210000Z
+DTSTART:20210202T140000Z
+SUMMARY:House Judiciary : REMOTE 
+UID:de8b62fb-5ce6-42da-84f3-0130f1ca5f7b@de8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4861&et=2
+DTEND:20210111T143000Z
+DTSTART:20210111T140000Z
+SUMMARY:COMMISSION TO STUDY TESTING FOR LYME AND OTHER TICK-BORNE DISEASES : REMOTE 
+UID:22987a85-156d-44ec-a5eb-1ed18d4e70b3@2298.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4894&et=2
+DTEND:20210115T140000Z
+DTSTART:20210115T133000Z
+SUMMARY:STATE HEALTH ASSESSMENT AND STATE HEALTH IMPROVEMENT PLAN ADVISORY COUNCIL : REMOTE 
+UID:745d9fb9-c0ae-4864-bdbb-e7ae6a3ace31@745d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5065&et=1
+DTEND:20210203T210000Z
+DTSTART:20210203T143000Z
+SUMMARY:House Children and Family Law : REMOTE 
+UID:767854f2-720c-41b7-bc0a-8e702185d338@7678.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4954&et=2
+DTEND:20210122T153000Z
+DTSTART:20210122T150000Z
+SUMMARY:JOINT COMMITTEE ON LEGISLATIVE FACILITIES : Senate Legislative Facilities\r\nSubcommitte\r\n
+UID:6ad7b9c8-bf9c-46dc-9653-4beb5bcf31c9@6ad7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5114&et=1
+DTEND:20210212T213000Z
+DTSTART:20210212T140000Z
+SUMMARY:House Science\, Technology and Energy : REMOTE 
+UID:f5ae58ab-e1f7-461e-bd5d-49a080df7bb8@f5ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5013&et=1
+DTEND:20210201T223000Z
+DTSTART:20210201T140000Z
+SUMMARY:House Fish and Game and Marine Resources : REMOTE 
+UID:023a2351-4f00-4106-8046-3937b5d77b98@023a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5014&et=1
+DTEND:20210127T213000Z
+DTSTART:20210127T143000Z
+SUMMARY:House Executive Departments and Administration : REMOTE 
+UID:36b094a2-ff18-4df2-b9f8-628ed12a34d9@36b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5030&et=2
+DTEND:20210125T143000Z
+DTSTART:20210125T140000Z
+SUMMARY:OIL FUND DISBURSEMENT BOARD : REMOTE 
+UID:8d5587dd-7213-47b2-ad92-60b5c7c1c69b@8d55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5115&et=2
+DTEND:20210211T223000Z
+DTSTART:20210211T180000Z
+SUMMARY:==REVISED==Labor\, Industrial and Rehabilitative Services : REMOTE 
+UID:fa7dd9b8-e6c8-4cb8-b255-9f783b68c5fe@fa7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4981&et=1
+DTEND:20210126T213000Z
+DTSTART:20210126T140000Z
+SUMMARY:House Education : REMOTE 
+UID:edbcc121-bf1d-4e45-8070-48fa1871cbca@edbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4890&et=2
+DTEND:20210104T200000Z
+DTSTART:20210104T180000Z
+SUMMARY:NEW HAMPSHIRE RECOVERY MONUMENT COMMISSION : REMOTE 
+UID:db6bb0c1-07fd-4c3c-b6ac-ef26721cb1ab@db6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4848&et=2
+DTEND:20210105T223000Z
+DTSTART:20210105T220000Z
+SUMMARY:STATE VETERANS ADVISORY COMMITTEE : REMOTE 
+UID:f773cb57-3211-45a3-a3c8-0670246d2bfa@f773.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4951&et=2
+DTEND:20210122T160000Z
+DTSTART:20210122T153000Z
+SUMMARY:JOINT COMMITTEE ON LEGISLATIVE FACILITIES : REMOTE 
+UID:7d112890-59c3-4338-a690-051bf47c37c5@7d11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4851&et=2
+DTEND:20210406T223000Z
+DTSTART:20210406T220000Z
+SUMMARY:STATE VETERANS ADVISORY COMMITTEE : REMOTE 
+UID:343c1405-dc6f-40fb-9025-8e7620c94084@343c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4997&et=1
+DTEND:20210129T213000Z
+DTSTART:20210129T140000Z
+SUMMARY:==REVISED==House Science\, Technology and Energy : REMOTE 
+UID:119ab33c-97e8-478c-82db-84d1ccc614f4@119a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5001&et=1
+DTEND:20210127T200000Z
+DTSTART:20210127T140000Z
+SUMMARY:House Criminal Justice and Public Safety : REMOTE 
+UID:e2d1175a-11ba-47f8-8511-0c9feaec8b6e@e2d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4846&et=2
+DTEND:20210111T183000Z
+DTSTART:20210111T180000Z
+SUMMARY:COMMISSION TO STUDY TELEHEALTH SERVICES : REMOTE 
+UID:0fecd8bf-94a5-48ce-a595-59b949c3c6ab@0fec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5057&et=2
+DTEND:20210208T213000Z
+DTSTART:20210208T190000Z
+SUMMARY:Municipal and County Government : REMOTE 
+UID:9e78c549-aa30-44fd-82e9-d5a987980b3d@9e78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5031&et=2
+DTEND:20210127T143000Z
+DTSTART:20210127T140000Z
+SUMMARY:NEW HAMPSHIRE DRINKING WATER AND GROUNDWATER ADVISORY COMMISSION : REMOTE 
+UID:bcbf65bf-dc0c-4ba5-bcd2-5bdcd1fae056@bcbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4983&et=1
+DTEND:20210126T203000Z
+DTSTART:20210126T140000Z
+SUMMARY:House Health\, Human Services and Elderly Affairs : REMOTE 
+UID:2cabb647-adcb-4f55-b4fd-e2460b64556b@2cab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5011&et=1
+DTEND:20210201T183000Z
+DTSTART:20210201T140000Z
+SUMMARY:House Municipal and County Government : REMOTE 
+UID:9bfdca24-2268-4f05-8f29-dcccdb9530f7@9bfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5100&et=2
+DTEND:20210212T153000Z
+DTSTART:20210212T150000Z
+SUMMARY:COMMISSION ON THE ENVIRONMENTAL AND PUBLIC HEALTH IMPACTS OF PERFLUORINATED CHEMICALS : REMOTE 
+UID:fdc38d55-bbdd-4ddd-ab71-ddaf23b0a2ed@fdc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4982&et=1
+DTEND:20210201T213000Z
+DTSTART:20210201T140000Z
+SUMMARY:House Health\, Human Services and Elderly Affairs : REMOTE 
+UID:60ca9243-828a-42c6-a291-4f6fabe5d222@60ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4956&et=2
+DTEND:20210129T173000Z
+DTSTART:20210129T150000Z
+SUMMARY:MOUNT WASHINGTON COMMISSION : REMOTE 
+UID:b2b6776d-3eb7-4fc5-aabf-38804ecead6b@b2b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5089&et=2
+DTEND:20210209T184500Z
+DTSTART:20210209T181500Z
+SUMMARY:==REVISED==Commerce and Consumer Affairs : REMOTE 
+UID:8b8d688e-1797-4657-8ea1-004261ff7a36@8b8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5093&et=1
+DTEND:20210209T213000Z
+DTSTART:20210209T190000Z
+SUMMARY:House Municipal and County Government : REMOTE 
+UID:6dad0b09-e754-4cb6-a76d-7bd3c08322b3@6dad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5062&et=1
+DTEND:20210205T210000Z
+DTSTART:20210205T191500Z
+SUMMARY:House Transportation : REMOTE 
+UID:14c3ba4e-6aee-4bdf-8c68-aca68b00a7f7@14c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4897&et=2
+DTEND:20210115T150000Z
+DTSTART:20210115T143000Z
+SUMMARY:GOVERNOR'S COMMISSION ON ALCOHOL AND DRUG ABUSE PREVENTION\, TREATMENT\, AND RECOVERY : REMOTE 
+UID:c8b38283-d961-4cad-a4f3-d40bfeed6003@c8b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4975&et=1
+DTEND:20210128T200000Z
+DTSTART:20210128T143000Z
+SUMMARY:House Public Works and Highways : REMOTE 
+UID:d4b4c1f9-e208-4116-9070-fbe523d1abc5@d4b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5074&et=1
+DTEND:20210210T210000Z
+DTSTART:20210210T140000Z
+SUMMARY:==REVISED==House Criminal Justice and Public Safety : REMOTE 
+UID:d658474a-e429-4369-ac11-18928e93ca80@d658.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5049&et=1
+DTEND:20210202T213000Z
+DTSTART:20210202T140000Z
+SUMMARY:House Education : REMOTE 
+UID:028dc9f7-14cd-4caf-a101-5d0e054b0caf@028d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5071&et=1
+DTEND:20210205T210000Z
+DTSTART:20210205T140000Z
+SUMMARY:==REVISED==House Criminal Justice and Public Safety : REMOTE 
+UID:b04feccd-b9d7-4820-ad16-c20955998479@b04f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5120&et=1
+DTEND:20210212T220000Z
+DTSTART:20210212T183000Z
+SUMMARY:House Election Law : REMOTE 
+UID:9cd4acf8-071d-4791-8ed0-762992ee6597@9cd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5010&et=1
+DTEND:20210127T223000Z
+DTSTART:20210127T140000Z
+SUMMARY:House Resources\, Recreation and Development : REMOTE 
+UID:70b7d7c3-2901-406b-a04e-c56544f32e6f@70b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4873&et=2
+DTEND:20210114T193000Z
+DTSTART:20210114T190000Z
+SUMMARY:LONG-TERM SEACOAST COMMISSION ON DRINKING WATER : REMOTE 
+UID:5a1c65c6-9b75-40c5-a27d-a9f72a4541b2@5a1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5004&et=1
+DTEND:20210201T220000Z
+DTSTART:20210201T150000Z
+SUMMARY:House Science\, Technology and Energy : REMOTE 
+UID:467446df-f5c2-4b06-9cd8-b9511ac613e8@4674.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5113&et=1
+DTEND:20210211T170000Z
+DTSTART:20210211T140000Z
+SUMMARY:House Labor\, Industrial and Rehabilitative Services : LOB\, Room 307
+UID:d40bcba1-7682-4777-8baf-b608276259bf@d40b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5017&et=1
+DTEND:20210201T213000Z
+DTSTART:20210201T141500Z
+SUMMARY:House Executive Departments and Administration : REMOTE 
+UID:63c14f5f-b36e-471a-a469-08eb84de6513@63c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5022&et=1
+DTEND:20210126T213000Z
+DTSTART:20210126T140000Z
+SUMMARY:House Judiciary : REMOTE 
+UID:fa55cfdb-c241-427c-ba6d-43849844c4aa@fa55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4901&et=2
+DTEND:20210111T160000Z
+DTSTART:20210111T140000Z
+SUMMARY:ADVISORY COUNCIL ON CAREER AND TECHNICAL EDUCATION : REMOTE 
+UID:ec5a467b-1dd8-4230-bf34-00756c737393@ec5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5091&et=1
+DTEND:20210210T184500Z
+DTSTART:20210210T181500Z
+SUMMARY:==REVISED==House Commerce and Consumer Affairs : REMOTE 
+UID:fd23e792-a466-42dc-a626-99f29669fd72@fd23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4892&et=2
+DTEND:20210108T143000Z
+DTSTART:20210108T140000Z
+SUMMARY:STATE HEALTH ASSESSMENT AND STATE HEALTH IMPROVEMENT PLAN ADVISORY COUNCIL : REMOTE 
+UID:d61b5cdd-82ba-430c-ab88-9093c980ced3@d61b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5048&et=1
+DTEND:20210208T213000Z
+DTSTART:20210208T140000Z
+SUMMARY:House Health\, Human Services and Elderly Affairs : REMOTE 
+UID:81f95215-c114-42c5-891e-a483049ade44@81f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4872&et=2
+DTEND:20210108T153000Z
+DTSTART:20210108T150000Z
+SUMMARY:MOUNT WASHINGTON COMMISSION : REMOTE 
+UID:a609d78e-5e43-4663-b149-8796688f98f5@a609.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5009&et=1
+DTEND:20210128T213000Z
+DTSTART:20210128T140000Z
+SUMMARY:House Labor\, Industrial and Rehabilitative Services : REMOTE 
+UID:bca5079d-fdb9-485e-860f-6c5033d392b2@bca5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4987&et=1
+DTEND:20210127T213000Z
+DTSTART:20210127T140000Z
+SUMMARY:House Environment and Agriculture : REMOTE 
+UID:b1d986f4-62a3-4f9f-b8b4-b2541c1a8cfa@b1d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5087&et=1
+DTEND:20210212T213000Z
+DTSTART:20210212T140000Z
+SUMMARY:House State-Federal Relations and Veterans Affairs : REMOTE 
+UID:13be4da0-e117-4b9e-a568-f754857803dc@13be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4880&et=2
+DTEND:20210125T153000Z
+DTSTART:20210125T150000Z
+SUMMARY:CURRENT USE BOARD : REMOTE 
+UID:72824c66-e573-48b5-895e-aba54d52025e@7282.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4974&et=2
+DTEND:20210212T143000Z
+DTSTART:20210212T140000Z
+SUMMARY:STATEWIDE INTEROPERABILITY EXECUTIVE COMMITTEE (SIEC) : REMOTE 
+UID:7f491be0-92e1-45d6-891a-8630725d20f7@7f49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4998&et=1
+DTEND:20210128T180000Z
+DTSTART:20210128T143000Z
+SUMMARY:House Children and Family Law : REMOTE 
+UID:362dfa4f-9e29-464f-8dfa-c3448636c068@362d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4898&et=2
+DTEND:20210115T150000Z
+DTSTART:20210115T143000Z
+SUMMARY:STATE HEALTH ASSESSMENT AND STATE HEALTH IMPROVEMENT PLAN ADVISORY COUNCIL : REMOTE 
+UID:a649e600-f006-4846-8872-9d40849d706e@a649.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4854&et=2
+DTEND:20210601T223000Z
+DTSTART:20210601T220000Z
+SUMMARY:STATE VETERANS ADVISORY COMMITTEE : REMOTE 
+UID:b6c43f7e-b03b-48be-8eb1-414273307f9a@b6c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5102&et=1
+DTEND:20210210T210000Z
+DTSTART:20210210T140000Z
+SUMMARY:House Ways and Means : REMOTE 
+UID:73b5d34f-9c1d-453b-876d-3d8f09f761e6@73b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4964&et=2
+DTEND:20210125T160000Z
+DTSTART:20210125T140000Z
+SUMMARY:COASTAL MARINE NATURAL RESOURCES AND ENVIRONMENT COMMISSION : REMOTE 
+UID:25a42d96-fa21-441a-b3a2-5e6356dfbf35@25a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5045&et=1
+DTEND:20210210T223000Z
+DTSTART:20210210T140000Z
+SUMMARY:House Resources\, Recreation and Development : REMOTE 
+UID:de8eed5a-e6b4-4ed2-ac45-d25805ee2fdc@de8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4893&et=2
+DTEND:20210113T143000Z
+DTSTART:20210113T140000Z
+SUMMARY:STATE HEALTH ASSESSMENT AND STATE HEALTH IMPROVEMENT PLAN ADVISORY COUNCIL : REMOTE 
+UID:e2ff8edd-ece0-4e59-bd47-7fa088e585c6@e2ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5085&et=1
+DTEND:20210209T213000Z
+DTSTART:20210209T140000Z
+SUMMARY:House Education : REMOTE 
+UID:8e232fdd-9323-478d-b34c-d7bc06668d42@8e23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5053&et=1
+DTEND:20210205T220000Z
+DTSTART:20210205T143000Z
+SUMMARY:House Election Law : REMOTE 
+UID:b85bd403-959a-422d-929b-7f163b409488@b85b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4871&et=2
+DTEND:20210115T143000Z
+DTSTART:20210115T140000Z
+SUMMARY:ADMINISTRATIVE RULES : REMOTE 
+UID:29bd2f0c-f805-4af6-89c4-8a75a2a5c57f@29bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4912&et=2
+DTEND:20210125T153000Z
+DTSTART:20210125T150000Z
+SUMMARY:STATE COMMISSION ON AGING : REMOTE 
+UID:c3416313-5a26-4c07-b82f-521d5cd43e5c@c341.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5086&et=1
+DTEND:20210211T213000Z
+DTSTART:20210211T140000Z
+SUMMARY:House Education : REMOTE 
+UID:0c8c1858-f332-40bf-9aa9-a330c88f02d1@0c8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5119&et=1
+DTEND:20210212T180000Z
+DTSTART:20210212T143000Z
+SUMMARY:House Election Law : REMOTE 
+UID:105549eb-2e41-4883-9d84-0b55e3f3e5e2@1055.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5052&et=1
+DTEND:20210208T173000Z
+DTSTART:20210208T140000Z
+SUMMARY:House Municipal and County Government : REMOTE 
+UID:46e6f7ce-6911-4a68-9853-274cef92ef4d@46e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5042&et=1
+DTEND:20210203T213000Z
+DTSTART:20210203T140000Z
+SUMMARY:House Commerce and Consumer Affairs : REMOTE 
+UID:e9508c11-6018-46a7-a061-a0418a7c29e0@e950.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5092&et=1
+DTEND:20210209T183000Z
+DTSTART:20210209T140000Z
+SUMMARY:House Municipal and County Government : REMOTE 
+UID:afc9156b-c66e-4d47-ba64-70f591cc773a@afc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5108&et=2
+DTEND:20210217T143000Z
+DTSTART:20210217T140000Z
+SUMMARY:ASSESSING STANDARDS BOARD : REMOTE 
+UID:7dc3712d-dab1-4804-81f2-3b87708d245b@7dc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4896&et=2
+DTEND:20210208T203000Z
+DTSTART:20210208T200000Z
+SUMMARY:==CANCELLED==LEGISLATIVE YOUTH ADVISORY COUNCIL : REMOTE 
+UID:ce1e7069-4453-410a-bb72-afcae5b9037c@ce1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5106&et=2
+DTEND:20210207T203000Z
+DTSTART:20210207T200000Z
+SUMMARY:LEGISLATIVE YOUTH ADVISORY COUNCIL : REMOTE 
+UID:cefd4d7b-076a-4dbc-aefc-a98f05a9ce9d@cefd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5062&et=2
+DTEND:20210205T210000Z
+DTSTART:20210205T191500Z
+SUMMARY:Transportation : REMOTE 
+UID:5427822f-3c99-470d-8838-67f754812f90@5427.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5093&et=2
+DTEND:20210209T213000Z
+DTSTART:20210209T190000Z
+SUMMARY:Municipal and County Government : REMOTE 
+UID:613f3be0-551b-4606-a662-70c0795e5c69@613f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5091&et=2
+DTEND:20210210T184500Z
+DTSTART:20210210T181500Z
+SUMMARY:==REVISED==Commerce and Consumer Affairs : REMOTE 
+UID:532e6f91-ca1a-48b7-881c-669601d1f39a@532e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5107&et=2
+DTEND:20210219T150000Z
+DTSTART:20210219T143000Z
+SUMMARY:ASSESSING STANDARDS BOARD : REMOTE 
+UID:be4659d2-ac4b-40cb-a9c5-9127e8f04642@be46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5044&et=2
+DTEND:20210203T184500Z
+DTSTART:20210203T181500Z
+SUMMARY:Commerce and Consumer Affairs : REMOTE 
+UID:b1cdf1f1-e9df-4d21-9cf7-5d76a0bbccd6@b1cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5069&et=1
+DTEND:20210217T210000Z
+DTSTART:20210217T140000Z
+SUMMARY:House Ways and Means : REMOTE 
+UID:0dc68554-1a15-401f-8799-be24ec8eb0c9@0dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4968&et=2
+DTEND:20210211T193000Z
+DTSTART:20210211T190000Z
+SUMMARY:LONG-TERM SEACOAST COMMISSION ON DRINKING WATER : REMOTE 
+UID:9fb971bc-5bc9-46c5-a0b4-51113ebe0ee4@9fb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4950&et=2
+DTEND:20210125T193000Z
+DTSTART:20210125T190000Z
+SUMMARY:THE DIVISION FOR CHILDREN\, YOUTH AND FAMILIES ADVISORY BOARD : REMOTE 
+UID:ab2b63d8-3df7-4d6e-87f4-82b18c9d1be7@ab2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5020&et=2
+DTEND:20210219T153000Z
+DTSTART:20210219T150000Z
+SUMMARY:FISCAL COMMITTEE : REMOTE 
+UID:18165210-bf5c-4f72-9c4c-d5c2ccb7af0c@1816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4850&et=2
+DTEND:20210302T223000Z
+DTSTART:20210302T220000Z
+SUMMARY:STATE VETERANS ADVISORY COMMITTEE : REMOTE 
+UID:6ecbaf26-d33d-43c8-8f23-7dc474c10313@6ecb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5050&et=1
+DTEND:20210204T213000Z
+DTSTART:20210204T140000Z
+SUMMARY:House Education : REMOTE 
+UID:110a969f-8ba3-481f-bd92-a916818da0ac@110a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4971&et=2
+DTEND:20210126T143000Z
+DTSTART:20210126T140000Z
+SUMMARY:CURRENT USE BOARD : REMOTE 
+UID:f83688c1-889c-4934-ba96-8096025b0eac@f836.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5085&et=2
+DTEND:20210209T213000Z
+DTSTART:20210209T140000Z
+SUMMARY:Education : REMOTE 
+UID:ce5b6b40-948c-4479-a815-325768bcee19@ce5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5109&et=1
+DTEND:20210209T210000Z
+DTSTART:20210209T140000Z
+SUMMARY:House Judiciary : REMOTE 
+UID:11908eb8-fcae-4d4d-aece-dabf755e9e7f@1190.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5043&et=1
+DTEND:20210203T223000Z
+DTSTART:20210203T140000Z
+SUMMARY:House Resources\, Recreation and Development : REMOTE 
+UID:d71a38ed-86e2-4e89-971a-f8bd5d82e149@d71a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5060&et=1
+DTEND:20210205T190000Z
+DTSTART:20210205T140000Z
+SUMMARY:House Transportation : REMOTE 
+UID:3dc09214-faac-4b57-8744-56cbba1c381a@3dc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5073&et=1
+DTEND:20210208T210000Z
+DTSTART:20210208T140000Z
+SUMMARY:House Criminal Justice and Public Safety : REMOTE 
+UID:b098dd59-6303-4897-a947-137a3011172c@b098.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5055&et=2
+DTEND:20210201T200000Z
+DTSTART:20210201T180000Z
+SUMMARY:NEW HAMPSHIRE RECOVERY MONUMENT COMMISSION : REMOTE 
+UID:184f4266-b5bf-47d1-bf81-fadb748adcd9@184f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5075&et=2
+DTEND:20210201T213000Z
+DTSTART:20210201T210000Z
+SUMMARY:NEW HAMPSHIRE DRUG OVERDOSE FATALITY REVIEW COMMISSION : REMOTE 
+UID:90922921-d641-4545-b070-0eee3ccf7671@9092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4852&et=2
+DTEND:20210504T223000Z
+DTSTART:20210504T220000Z
+SUMMARY:STATE VETERANS ADVISORY COMMITTEE : REMOTE 
+UID:2fb832f4-bba7-470e-8dd9-2fa153affa92@2fb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5029&et=2
+DTEND:20210212T143000Z
+DTSTART:20210212T140000Z
+SUMMARY:COMMISSION TO STUDY TESTING FOR LYME AND OTHER TICK-BORNE DISEASES : REMOTE 
+UID:d4a28855-5456-4cb7-a0ec-04d31af47997@d4a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5066&et=1
+DTEND:20210204T220000Z
+DTSTART:20210204T140000Z
+SUMMARY:House Ways and Means : REMOTE 
+UID:515fd420-e923-4416-b9b8-fd7603f6f1c0@515f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5033&et=2
+DTEND:20210219T203000Z
+DTSTART:20210219T200000Z
+SUMMARY:NEW HAMPSHIRE RARE DISEASE ADVISORY COUNCIL : REMOTE 
+UID:d8062148-7f31-44d9-8deb-bd51f72266dc@d806.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4867&et=2
+DTEND:20210126T143000Z
+DTSTART:20210126T140000Z
+SUMMARY:==TIME CHANGE==WELLNESS AND PRIMARY PREVENTION COUNCIL : REMOTE 
+UID:9f3229c4-2f92-4421-901a-d4d7b8733b91@9f32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5111&et=2
+DTEND:20210219T143000Z
+DTSTART:20210219T140000Z
+SUMMARY:ADMINISTRATIVE RULES : REMOTE 
+UID:8b125a53-46cd-4c07-bced-c67e0b526b6f@8b12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4899&et=2
+DTEND:20210119T150000Z
+DTSTART:20210119T143000Z
+SUMMARY:ASSESSING STANDARDS BOARD : REMOTE 
+UID:80375a58-19f0-443f-9967-c5b4e4276854@8037.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5044&et=1
+DTEND:20210203T184500Z
+DTSTART:20210203T181500Z
+SUMMARY:House Commerce and Consumer Affairs : REMOTE 
+UID:973c3c9a-9a12-4fb0-b6f3-0384a9d1d521@973c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5037&et=1
+DTEND:20210202T210000Z
+DTSTART:20210202T140000Z
+SUMMARY:House Commerce and Consumer Affairs : REMOTE 
+UID:abad94bf-c951-4714-b18a-dd6b7786c46c@abad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5047&et=1
+DTEND:20210202T213000Z
+DTSTART:20210202T140000Z
+SUMMARY:==REVISED==House Health\, Human Services and Elderly Affairs : REMOTE 
+UID:6da82d7c-3a0e-4779-a1e7-ea536d7be7c8@6da8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5098&et=1
+DTEND:20210209T210000Z
+DTSTART:20210209T183000Z
+SUMMARY:House Education : REMOTE 
+UID:b1e82b4c-fd69-465e-8623-0b2cca6245e6@b1e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5118&et=2
+DTEND:20210219T150000Z
+DTSTART:20210219T143000Z
+SUMMARY:STATE HEALTH ASSESSMENT AND STATE HEALTH IMPROVEMENT PLAN ADVISORY COUNCIL : REMOTE 
+UID:817a30f7-ff0d-4dcf-996a-54725d53f513@817a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4875&et=2
+DTEND:20210122T153000Z
+DTSTART:20210122T150000Z
+SUMMARY:ASSESSING STANDARDS BOARD : REMOTE 
+UID:82d1fb62-a101-43bd-b398-93bf3ea2de43@82d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4994&et=1
+DTEND:20210126T213000Z
+DTSTART:20210126T140000Z
+SUMMARY:House Commerce and Consumer Affairs : REMOTE 
+UID:1f3a9392-8cf5-475b-95e0-d816d336f9f9@1f3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5036&et=2
+DTEND:20210212T220000Z
+DTSTART:20210212T200000Z
+SUMMARY:COMMISSION ON HOLOCAUST AND GENOCIDE EDUCATION : REMOTE 
+UID:fe171a26-a7fa-41fc-8305-08793b508d1f@fe17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4953&et=2
+DTEND:20210122T153000Z
+DTSTART:20210122T151000Z
+SUMMARY:JOINT COMMITTEE ON LEGISLATIVE FACILITIES : REMOTE 
+UID:6d21db3a-7389-4d1a-a03a-5ec4a0942893@6d21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4944&et=2
+DTEND:20210125T193000Z
+DTSTART:20210125T190000Z
+SUMMARY:NH LAND AND COMMUNITY HERITAGE AUTHORITY BOARD OF DIRECTORS : REMOTE 
+UID:2145adb4-bc1d-43e6-9495-fe36d5655714@2145.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5083&et=2
+DTEND:20210208T170000Z
+DTSTART:20210208T150000Z
+SUMMARY:NEW HAMPSHIRE DRINKING WATER AND GROUNDWATER ADVISORY COMMISSION : REMOTE 
+UID:e4cc9864-7e16-48c2-9689-15c8f6b9d5ef@e4cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5068&et=1
+DTEND:20210211T210000Z
+DTSTART:20210211T140000Z
+SUMMARY:House Ways and Means : REMOTE 
+UID:5938921f-51f4-4399-8e99-d33df8bc9e80@5938.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5041&et=1
+DTEND:20210208T220000Z
+DTSTART:20210208T150000Z
+SUMMARY:House Science\, Technology and Energy : REMOTE 
+UID:7bf47da0-3fcf-4d4d-a62c-6613bb5074f4@7bf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5110&et=1
+DTEND:20210210T210000Z
+DTSTART:20210210T140000Z
+SUMMARY:House Judiciary : REMOTE 
+UID:046f1f03-6fdc-487d-a44d-d346837fa0a6@046f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5120&et=2
+DTEND:20210212T220000Z
+DTSTART:20210212T183000Z
+SUMMARY:Election Law : REMOTE 
+UID:b1bf2152-72ab-4a6f-b3ff-295a1d73e98f@b1bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4864&et=2
+DTEND:20210122T203000Z
+DTSTART:20210122T200000Z
+SUMMARY:COMMISSION ON HOLOCAUST AND GENOCIDE EDUCATION : REMOTE 
+UID:9e901fd1-d1f9-4beb-aff7-7dbd631c8fc4@9e90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5046&et=1
+DTEND:20210204T213000Z
+DTSTART:20210204T140000Z
+SUMMARY:House Labor\, Industrial and Rehabilitative Services : REMOTE 
+UID:7c510625-75a7-4307-93bf-2cc4d1100000@7c51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4863&et=2
+DTEND:20210115T190000Z
+DTSTART:20210115T170000Z
+SUMMARY:COMMISSION TO STUDY ENVIRONMENTALLY-TRIGGERED CHRONIC ILLNESS : REMOTE 
+UID:7f5d1f31-0d20-40db-952f-3f7446042ff8@7f5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4955&et=1
+DTEND:20210122T153000Z
+DTSTART:20210122T150000Z
+SUMMARY:==REVISED==House Election Law : REMOTE 
+UID:8ef339f0-2eeb-41f5-99c6-f5988048a164@8ef3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5115&et=1
+DTEND:20210211T223000Z
+DTSTART:20210211T180000Z
+SUMMARY:==REVISED==House Labor\, Industrial and Rehabilitative Services : REMOTE 
+UID:be2d628f-c5ae-4065-b18b-258a57e29ba8@be2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4862&et=2
+DTEND:20210104T203000Z
+DTSTART:20210104T200000Z
+SUMMARY:LEGISLATIVE YOUTH ADVISORY COUNCIL : REMOTE 
+UID:f3b60abb-436f-4648-bcf5-ae136abf7ba6@f3b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5057&et=1
+DTEND:20210208T213000Z
+DTSTART:20210208T190000Z
+SUMMARY:House Municipal and County Government : REMOTE 
+UID:8039b676-3e2d-41c0-8f5b-0ea7437b3f39@8039.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5112&et=1
+DTEND:20210212T210000Z
+DTSTART:20210212T140000Z
+SUMMARY:House Transportation : REMOTE 
+UID:933f554d-7426-4fc4-93a6-8c7f5975c1eb@933f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5008&et=1
+DTEND:20210129T210000Z
+DTSTART:20210129T150000Z
+SUMMARY:House Transportation : REMOTE 
+UID:906582b1-0195-45b3-b283-49e56713743d@9065.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5097&et=2
+DTEND:20210219T200000Z
+DTSTART:20210219T180000Z
+SUMMARY:COMMISSION TO STUDY TELEHEALTH SERVICES : REMOTE 
+UID:e8620560-14ba-445a-93df-2cb0439a4636@e862.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=4868&et=2
+DTEND:20210108T153000Z
+DTSTART:20210108T150000Z
+SUMMARY:COMMISSION ON THE ENVIRONMENTAL AND PUBLIC HEALTH IMPACTS OF PERFLUORINATED CHEMICALS : REMOTE 
+UID:32a242ec-37f8-4a13-adcb-7041f7ce859a@32a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5090&et=1
+DTEND:20210210T213000Z
+DTSTART:20210210T140000Z
+SUMMARY:==REVISED==House Commerce and Consumer Affairs : REMOTE 
+UID:70bc3cf3-a18a-4bbc-8ac7-907d22ac1270@70bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5038&et=1
+DTEND:20210203T213000Z
+DTSTART:20210203T140000Z
+SUMMARY:House Environment and Agriculture : REMOTE 
+UID:bb05f7c5-9665-421e-bce2-aaccf397adc1@bb05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/house/schedule/eventDetails.aspx?event=5105&et=2
+DTEND:20210222T193000Z
+DTSTART:20210222T190000Z
+SUMMARY:THE DIVISION FOR CHILDREN\, YOUTH AND FAMILIES ADVISORY BOARD : REMOTE 
+UID:a2cd5a4e-a90f-4d12-952a-a45c956fc4ce@a2cd.org
+END:VEVENT
+END:VCALENDAR
