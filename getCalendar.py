@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 date_input = '%Y-%m-%dT%H:%M:%S'
 date_output = '%Y-%m-%d %H:%M:%S'
 
-url_0 = "https://www.gencourt.state.nh.us:80/house/schedule/CalendarWS.asmx/GetEvents"
+url_0 = "http://www.gencourt.state.nh.us:80/house/schedule/CalendarWS.asmx/GetEvents"
 headers_0 = {"Content-Type": "application/json; charset=utf-8", "DNT": "1", "Connection": "close"}
 r_0 = requests.get(url_0, headers=headers_0)
 j = json.loads(r_0.json()['d'])
@@ -21,7 +21,7 @@ for entry in j:
     if entry['backgroundColor'] == '#9933ff':
         event_type = 'Session Day'
     begin = datetime.strptime(entry['start'],date_input).replace(tzinfo=tz.gettz('EST'))
-    r_1 = requests.get('https://www.gencourt.state.nh.us/house/schedule/' + entry['url'])
+    r_1 = requests.get('http://www.gencourt.state.nh.us/house/schedule/' + entry['url'])
     soup = BeautifulSoup(r_1.content,features="lxml")
     if(event_type == 'Hearing'):
         table = soup.table
