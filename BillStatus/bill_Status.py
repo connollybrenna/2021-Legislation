@@ -5,7 +5,7 @@ import os
 
 url = 'http://gencourt.state.nh.us/bill_Status/results.aspx?txtsessionyear=2021&sortoption='
 r = requests.get(url)
-path = r'C:\git\2021-Legislation\billStatusResults.html'
+path = r'billStatusResults.html'
 with open(path, "w", encoding="utf=8") as f:
 	f.write(r.text)
 	f.close()
@@ -48,7 +48,7 @@ for s in splits:
         if billanalysis:
             billanalysis = billanalysis.text.strip()
             df.loc[index,'BillAnalysis'] = billanalysis
-        htmlRoot = r'C:\git\2021-Legislation\Bills-HTML_fromStatusPage'
+        htmlRoot = r'.\Bills-HTML_fromStatusPage'
         htmlPath = htmlRoot + '\\' + billnum + ".html"
         if not os.path.isdir(htmlRoot):
             os.mkdir(htmlRoot)
@@ -57,4 +57,4 @@ for s in splits:
                 f.write(str(soupBill))
                 f.close()
     index += 1
-df.to_csv(r'C:\git\2021-Legislation\2021Bills.csv', index = False)
+df.to_csv(r'2021Bills.csv', index = False)

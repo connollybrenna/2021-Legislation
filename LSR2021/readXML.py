@@ -1,7 +1,10 @@
 from bs4 import BeautifulSoup
 import pandas as pd
+import os
 
-soup = BeautifulSoup(open(r'C:\git\2021-Legislation\2021_LSR.xml',encoding="utf-8"), features='lxml')
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
+soup = BeautifulSoup(open(r'2021_LSR.xml',encoding="utf-8"), features='lxml')
 
 df_cols = ["LSRNumber","LSRTitle","BillNumber","BillAnalysis","BillURL","PrimeSponsor","Sponsors","pubDate"]
 rows = []
@@ -20,4 +23,4 @@ for a in LSR:
     newrows = {"LSRNumber": s_LSRNumber,"LSRTitle": s_LSRTitle,"BillNumber": s_BillNumber,"BillAnalysis": s_BillAnalysis,"BillURL": s_BillURL,"PrimeSponsor": s_PrimeSponsor,"Sponsors": s_Sponsors,"pubDate": s_pubDate}
     rows.append(newrows)
 out_df = pd.DataFrame(rows, columns = df_cols)
-out_df.to_csv(r'C:\git\2021-Legislation\2021_LSR.csv', index = False)
+out_df.to_csv(r'2021_LSR.csv', index = False)
