@@ -1,4 +1,19 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/senate/schedule/eventDetails.aspx?event=46&et=3
+SUMMARY:Session Day: Senate Session 
+UID:68d60fcf-f40e-4d37-9b9a-d16b32ee1e2c@68d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/senate/schedule/eventDetails.aspx?event=32&et=3
+SUMMARY:Session Day: Senate Session 
+UID:c318a5e5-508d-4534-a939-753deda785aa@c318.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.gencourt.state.nh.us/senate/schedule/eventDetails.aspx?event=41&et=3
+SUMMARY:Session Day: Senate Session 
+UID:aaff41bd-8a44-4ccd-8f52-bf133a1dd56c@aaff.org
+END:VEVENT
 END:VCALENDAR
